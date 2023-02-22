@@ -1,6 +1,6 @@
 # Netflix-Project
 
-This project is a web application that allows users to browse through movies and TV shows provided by Netflix. It allows users to trending movies, filter movies by genre, and create a list of their favorite movies.
+This project is a web application that allows users to browse through movies and TV shows provided by Netflix. It allows users to trending movies, can possible to watch Highlight of movies, filter movies by genre, and create a list of their favorite movies.
 
 The project is implemented using HTML, CSS, React JS , and a variety of other web technologies. The application is designed to be responsive and mobile-friendly, and can be accessed from any web browser on any device.
 
@@ -8,7 +8,7 @@ To view this application :- https://manjualwin-18.github.io/Netflix_React/
 ## Features
 
 * Treanding Movies 
-* Search for movies and TV shows
+* Possible to watch highlights of the Movies
 * Filter movies by genre
 * Create a list of favorite movies
 * Share movie recommendations with friends
